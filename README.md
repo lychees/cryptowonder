@@ -1,4 +1,8 @@
-# cryptoroses
+# CryptoWonder
+
+## Ref
+
+[Design Doc](https://docs.google.com/document/d/1TPSWQKBp4D-KxV6N9-3pTa2PDZulVNsA-AaPJ2HYtDo/edit)
 
 > A Vue.js project
 
